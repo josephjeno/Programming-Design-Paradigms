@@ -1,0 +1,48 @@
+TA-1 Name: - Nisarg
+TA-2 Name: - Abhay
+
+Student CCIS ID: josephjeno
+
+Problem Set #: set05
+Question Codewalked: - Q2
+
+Design Grade: - A
+Presentation Grade: - A
+
+================
+
+Examples and Tests:
+
+-- has 100% test coverage, good!
+
+================
+
+Data Design:
+
+
+================
+
+Contract/Purpose Statement/Design Strategy:
+
+-- really clean code and excellent use of helper functions !!
+
+-- contract for string-to-operation need to be fixed.
+Whenever returning a function (+,-,*,/) use the contract as in 
+https://course.ccs.neu.edu/cs5010f17/Examples/08-4-function-sum.rkt
+
+================
+
+Presentation:
+
+-- good work!!
+
+================
+
+Other:
+
+
+================
+
+
+
+

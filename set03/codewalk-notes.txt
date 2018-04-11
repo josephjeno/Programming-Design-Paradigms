@@ -1,0 +1,41 @@
+TA-1 Name: - Krishna
+TA-2 Name: - Harshit
+
+Student CCIS ID: josephjeno
+
+Problem Set #: set03
+Question Codewalked: -
+
+Design Grade: - AB
+Presentation Grade: - A
+
+================
+
+Examples and Tests:
+
+Doesn't have 100% code coverage
+
+================
+
+Data Design:
+
+Datatypes could have been better - Could have used PosInt instead of Int
+Smooth dragging was not properly planned/implemented.
+Use helpers to break down functions when possible.
+
+================
+
+Presentation:
+
+Student speaks clearly and can explain his logic.
+
+================
+
+Other:
+
+
+================
+
+
+
+

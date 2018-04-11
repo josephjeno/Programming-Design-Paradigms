@@ -1,0 +1,53 @@
+TA-1 Name: - Rahul V
+TA-2 Name: - Abhay K
+
+Student CCIS ID: josephjeno
+
+Problem Set #: set09
+Question Codewalked: -
+
+Q1 Design Grade: - 
+Q1 Presentation Grade: -
+
+Q2 Design Grade: - A
+Q2 Presentation Grade: - AB
+
+================
+
+Examples and Tests:
+
+-- Have 100% test coverage.
+
+================
+
+Data Design:
+
+
+================
+
+Contract/Purpose Statement/Design Strategy:
+
+
+
+================
+
+Presentation:
+
+-- Confused on what should be datatype Interface / Class. (revise lesson 9.2)
+
+================
+
+Interfaces, Objects, and Classes
+
+-- Used Hard coded values in competetitorHistoryCycle in Competitor Class, but use unclear (could have used better halting measure).
+
+================
+
+Other:
+
+
+================
+
+
+
+

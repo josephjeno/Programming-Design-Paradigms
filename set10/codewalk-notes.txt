@@ -1,0 +1,41 @@
+TA-1 Name: - Abhishek I
+TA-2 Name: - Harshit V
+
+Student CCIS ID: josephjeno
+
+Problem Set #: set10
+Question Codewalked: - Q1, Q2
+
+Q1 Design Grade: - A
+Q1 Presentation Grade: - A
+
+Q2 Design Grade: - A
+Q2 Presentation Grade: - A
+
+================
+
+Interfaces, Objects, and Classes
+
+-- class variables should be made private
+
+-- could have avoided doing List.addAll by passing the list as a parameter for constructor of ArrayList
+
+-- could have used HOF filter in readyCount
+
+-- in iterator sorting can be done using a Comparator
+
+-- "equals" method could have been optimized by checking size of the two lists rather than looping through the two lists
+
+-- factory method for Roster object should be in another class, separated from the implementation of the Roster interface
+
+================
+
+Presentation:
+
+-- student was asked about the interaction between the players and rosters, could explain correctly.
+
+================
+
+
+
+

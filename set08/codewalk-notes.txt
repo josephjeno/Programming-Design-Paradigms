@@ -1,0 +1,50 @@
+TA-1 Name: - Abhishek
+TA-2 Name: - Prasad
+
+Student CCIS ID: josephjeno
+
+Problem Set #: set08
+Question Codewalked: - Q1
+
+Q1 Design Grade: - A
+Q1 Presentation Grade: - A
+
+Q2 Design Grade: - 
+Q2 Presentation Grade: -
+
+================
+
+Examples and Tests:
+
+-- 100% test coverage
+
+================
+
+Data Design:
+
+-- defined required structures
+
+================
+
+Contract/Purpose Statement/Design Strategy:
+
+-- missing purpose statement for function insert-defeat (not a simple function)
+
+-- incorrect contract and documentation for function competitor-history-cycler
+
+================
+
+Presentation:
+
+-- what is halting measure - explained
+
+================
+
+Other:
+
+
+================
+
+
+
+

@@ -1,0 +1,52 @@
+TA-1 Name: - Aditya
+TA-2 Name: - Charmik
+
+Student CCIS ID: josephjeno
+
+Problem Set #: set11
+Question Codewalked: - Q1 and Q2
+
+Q1 Design Grade: - AB
+Q1 Presentation Grade: - A
+
+Q2 Design Grade: - A
+Q2 Presentation Grade: -A
+
+
+================
+
+Examples and Tests:
+
+
+================
+
+Data Design:
+
+
+================
+
+Contract/Purpose Statement/Design Strategy:
+
+
+================
+
+Presentation:
+
+================
+
+Interfaces, Objects, and Classes
+
+
+================
+
+Other:
+- The RosterWithStream1 Constructor can be private
+- Stream does not return sorted players.
+- Answered correclty for question related reduce function 
+
+
+================
+
+
+
+

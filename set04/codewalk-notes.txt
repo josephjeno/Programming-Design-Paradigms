@@ -1,0 +1,49 @@
+TA-1 Name: - Abhay
+TA-2 Name: - Rohan
+
+Student CCIS ID: josephjeno
+
+Problem Set #: set04
+Question Codewalked: - Q2
+
+Design Grade: - AB
+Presentation Grade: - A
+
+================
+
+Examples and Tests:
+
+-- has 100% test coverage , good work!
+
+================
+
+Data Design:
+
+-- good work!!
+
+================
+
+Contract/Purpose Statement/Design Strategy:
+
+-- use constants for initial racket , ball.
+
+-- good work !!
+
+-- minor mistakes in strategy ( constructor template instead of observer template , place items of world instead of simler functions/use template/etc)
+
+-- contract wrong for a few functions (returning Racket but contract says Ball)
+
+-- purpose is wrong for a few functions (new-balls)
+
+================
+
+Presentation:
+
+-- good work!!
+
+================
+
+Other:
+
+
+================

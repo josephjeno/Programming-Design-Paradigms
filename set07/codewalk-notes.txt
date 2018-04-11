@@ -1,0 +1,34 @@
+TA-1 Name: - Viranchi 
+TA-2 Name: - Rahul V
+
+Student CCIS ID: josephjeno
+
+Problem Set #: set07
+Question Codewalked: - Q2
+
+Design Grade: - A
+Presentation Grade: - A
+
+================
+
+Data Design:
+
+================
+
+Contract/Purpose Statement/Design Strategy:
+
+-- Better to give Invariants.
+
+================
+
+Presentation:
+
+================
+
+Other:
+
+================
+
+
+
+

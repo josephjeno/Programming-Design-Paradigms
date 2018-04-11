@@ -1,0 +1,21 @@
+TA-1 Name: Krishna 
+TA-2 Name: Yasaman
+
+Student CCIS ID: josephjeno
+
+Problem Set #: set02
+Question Codewalked: 2
+
+Design Grade: A
+Presentation Grade: A
+
+================
+
+Data Design:
+
+-- avoid using magic numbers
+
+-- specify what kinds of strings are allowed for color
+
+
+================
